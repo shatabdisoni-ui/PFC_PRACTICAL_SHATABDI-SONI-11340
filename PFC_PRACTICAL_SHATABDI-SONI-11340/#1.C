@@ -2,7 +2,7 @@
 
 int main() {
     // Variable declaration
-    char name[] = "Soumya Soni";
+    char name[] = "Shatabdi Soni";
     int age = 22;
 
     // Output statements
